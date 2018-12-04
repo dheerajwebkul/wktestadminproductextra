@@ -1,0 +1,1 @@
+- https://github.com/PrestaShop/PrestaShop/issues/11582 test module
